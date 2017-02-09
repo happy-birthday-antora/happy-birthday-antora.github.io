@@ -11,7 +11,7 @@ body {
     /*background-attachment: fixed;*/
     /*background-size: 100%;*/
 	background: url(a.jpg) no-repeat center center fixed; 
-	opacity: 0.4;
+	opacity: 0.1;
 	-moz-background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
